@@ -49,10 +49,10 @@ limitations under the License.
     <avro.version>1.7.4</avro.version>
     <checkstyle.plugin.version>2.17</checkstyle.plugin.version>
     <checkstyle.tool.version>6.19</checkstyle.tool.version>
-    <elasticsearch.version>0.90.1</elasticsearch.version>
+    <elasticsearch.version>5.0.0-rc1</elasticsearch.version>
     <hadoop2.version>2.4.0</hadoop2.version>
     <thrift.version>0.7.0</thrift.version>
-    <kafka.version>0.9.0.1</kafka.version>
+    <kafka.version>0.10.1.0</kafka.version>
     <kite.version>1.0.0</kite.version>
     <hive.version>1.0.0</hive.version>
     <xalan.verion>2.7.1</xalan.verion>
@@ -964,7 +964,7 @@ limitations under the License.
       <dependency>
         <groupId>org.apache.httpcomponents</groupId>
         <artifactId>httpclient</artifactId>
-        <version>4.2.1</version>
+        <version>4.5.2</version>
       </dependency>
 
       <dependency>
@@ -1014,7 +1014,7 @@ limitations under the License.
       <dependency>
         <groupId>org.apache.derby</groupId>
         <artifactId>derby</artifactId>
-        <version>10.11.1.1</version>
+        <version>10.12.1.1</version>
       </dependency>
 
       <dependency>
@@ -1310,7 +1310,7 @@ limitations under the License.
       <dependency>
         <groupId>io.netty</groupId>
         <artifactId>netty</artifactId>
-        <version>3.9.4.Final</version>
+        <version>3.10.6.Final</version>
       </dependency>
 
       <dependency>
